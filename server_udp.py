@@ -3,7 +3,7 @@ procesa un mensaje donde: recibe, procesa y envia respuesta """
 import socket
 import datetime
 
-HOST = "0.0.0.0"
+HOST = "127.0.0.1"
 PORT = 6000
 
 """Se usan diccionarios para almacenar los usuarios conectados. 

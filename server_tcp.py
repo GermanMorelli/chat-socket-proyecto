@@ -5,7 +5,7 @@ import datetime
 import socket
 import threading
 
-HOST = "0.0.0.0"
+HOST = "127.0.0.1"
 PORT = 5000
 
 """se usa UN diccionario para almacenar los clientes conectados, donde la clave es el nombre de usuario
